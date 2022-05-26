@@ -1,0 +1,17 @@
+<RAPOR>
+<KIMLIK>
+<Ad-Soyad>Mert Şahin</Ad-Soyad>
+<TcNo>224163</TcNo>
+</KIMLIK>
+<ULAŞIM>
+<Tipi>Uçak</Tipi>
+<OtelLokasyon>adres</OtelLokasyon>
+<BinilecekLokasyon>Ankara</BinilecekLokasyon>
+<Ücret>50 TL</Ücret>
+</ULAŞIM>
+<KONAKLAMA>
+<Tipi>Otel</Tipi>
+<Check-In-Out>26.05.2022 10:20:27 - 28.05.2022 10:20:27</Check-In-Out>
+<Ücret>150 TL</Ücret>
+</KONAKLAMA>
+</RAPOR>
